@@ -1,0 +1,16 @@
+{
+    "name": "baur/hexlet-slim-example",
+    "description": "baur/hexlet-slim-exampe",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "baur114",
+            "email": "baurdotnet@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "slim/slim": "^3.0"
+    }
+}
